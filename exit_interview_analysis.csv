@@ -1,0 +1,21 @@
+Employee_ID,Exit_Interview,Sentiment_Score,Sentiment,Topic
+1,The workload was very high and frequent overtime made it difficult to maintain a healthy work life balance.,0.07700000000000001,Neutral,Workload & Work-Life Balance
+2,"I enjoyed working with my team, but the salary growth was slower than I expected.",0.2,Positive,Compensation
+4,I did not see enough opportunities for career development and promotion.,0.0,Neutral,Career Development
+5,The workload was stressful and I often had to work late.,-0.3,Negative,Workload & Work-Life Balance
+7,My manager was supportive and the team environment was positive.,0.36363636363636365,Positive,Management & Team Environment
+8,I wanted better training programs and opportunities to learn new technical skills.,0.21212121212121213,Positive,Training & Learning
+10,The compensation was not competitive compared with other companies.,-0.125,Negative,Compensation
+11,Long working hours affected my personal life and increased my stress.,-0.025,Neutral,Workload & Work-Life Balance
+12,There was no clear career path or promotion opportunity for me.,-0.049999999999999996,Neutral,Career Development
+13,"I liked my colleagues, but I was disappointed with the salary progression.",-0.07500000000000001,Neutral,Compensation
+14,The company provided good learning opportunities and my manager was helpful.,0.7,Positive,Training & Learning
+15,Too much overtime made the job stressful and affected my work life balance.,0.2,Positive,Workload & Work-Life Balance
+16,I wanted more opportunities to develop my skills and grow professionally.,0.3,Positive,Career Development
+18,"The work environment was friendly, but compensation remained a concern.",0.375,Positive,Compensation
+19,I felt there was limited support from management when workload increased.,-0.07142857142857142,Neutral,Workload & Work-Life Balance
+20,Training opportunities were limited and I wanted to learn modern technologies.,0.0642857142857143,Neutral,Training & Learning
+21,The salary and benefits were not sufficient for my expectations.,0.0,Neutral,Compensation
+22,The workload became difficult to manage and caused considerable stress.,-0.2,Negative,Workload & Work-Life Balance
+23,I was satisfied with my team but there were limited promotion opportunities.,0.2142857142857143,Positive,Career Development
+24,My manager supported my development and I had a positive experience overall.,0.11363636363636363,Positive,Management & Team Environment

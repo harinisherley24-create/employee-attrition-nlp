@@ -1,0 +1,9 @@
+Policy_ID,Policy_Name,Category,Policy_Text
+P001,Working Hours Policy,Workload & Work-Life Balance,Employees are expected to follow standard working hours. Additional working hours should be managed appropriately to maintain employee well-being and work-life balance.
+P002,Overtime Policy,Workload & Work-Life Balance,Overtime may be required during business needs. Employees working additional hours should receive appropriate support according to organizational guidelines.
+P003,Leave Policy,Work-Life Balance,"Employees can use eligible leave benefits to manage personal, health, and family requirements while maintaining appropriate workplace responsibilities."
+P004,Compensation Policy,Compensation,"Employee compensation is determined based on role, experience, responsibilities, performance, and organizational compensation structures."
+P005,Career Development Policy,Career Development,"Employees may receive opportunities for career development through role progression, professional development activities, and internal growth opportunities."
+P006,Training & Learning Policy,Training & Learning,"Employees may participate in training and learning programs designed to improve technical, professional, and job-related skills."
+P007,Manager Support Policy,Management & Team Environment,"Managers are expected to provide appropriate guidance, communication, feedback, and support to employees within their teams."
+P008,Performance Feedback Policy,Management & Team Environment,"Employees should receive regular performance feedback to understand expectations, identify development areas, and discuss career goals."

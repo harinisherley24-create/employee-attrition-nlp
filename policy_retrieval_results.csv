@@ -1,0 +1,16 @@
+Employee_Query,Policy_ID,Policy_Name,Category,Match_Score
+I am working too much overtime and feeling stressed,P001,Working Hours Policy,Workload & Work-Life Balance,3
+I am working too much overtime and feeling stressed,P002,Overtime Policy,Workload & Work-Life Balance,3
+I am working too much overtime and feeling stressed,P003,Leave Policy,Work-Life Balance,3
+I want better salary and compensation,P004,Compensation Policy,Compensation,3
+I want better salary and compensation,P001,Working Hours Policy,Workload & Work-Life Balance,2
+I want better salary and compensation,P003,Leave Policy,Work-Life Balance,2
+I want career growth and promotion,P005,Career Development Policy,Career Development,4
+I want career growth and promotion,P008,Performance Feedback Policy,Management & Team Environment,3
+I want career growth and promotion,P001,Working Hours Policy,Workload & Work-Life Balance,2
+I need training to improve my technical skills,P006,Training & Learning Policy,Training & Learning,6
+I need training to improve my technical skills,P002,Overtime Policy,Workload & Work-Life Balance,3
+I need training to improve my technical skills,P003,Leave Policy,Work-Life Balance,2
+I have problems with my manager and team,P007,Manager Support Policy,Management & Team Environment,5
+I have problems with my manager and team,P008,Performance Feedback Policy,Management & Team Environment,3
+I have problems with my manager and team,P001,Working Hours Policy,Workload & Work-Life Balance,2
